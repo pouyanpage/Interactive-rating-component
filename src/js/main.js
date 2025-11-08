@@ -3,7 +3,7 @@ export default function () {
         <div class="flex flex-col gap-y-7 bg-gray-900 w-96 p-8 rounded-2xl">
             <!-- top icon -->
             <div class="bg-gray-700 rounded-full p-3.5 w-10 h-10">
-                <img src="../../images/icon-star.svg" alt="123">
+                <img src="./images/icon-star.svg" alt="123">
             </div>
             <!-- header -->
             <div class="text-white text-2xl">

@@ -1,7 +1,7 @@
 'strict mode'
 
-import main from "/src/js/main.js";
-import correct from "/src/js/correct.js";
+import main from "./src/js/main.js";
+import correct from "./src/js/correct.js";
 
 const body = document.querySelector('body');
 

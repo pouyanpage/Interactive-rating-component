@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@layer components {
+  .numbers {
+    background-color: #6a7282;
+    width: 45px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    cursor: default;
+  }
+  .active-number {
+    background-color: #fef3c6;
+  }
+}
